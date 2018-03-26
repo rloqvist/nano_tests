@@ -1,0 +1,5 @@
+*.log
+*.html
+*.png
+*.pickle
+*__pycache__*
